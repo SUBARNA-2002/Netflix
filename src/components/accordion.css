@@ -1,0 +1,13 @@
+/* Custom CSS styles for the accordion component */
+.accordion {
+    overflow: hidden;
+  }
+  
+  .accordion-content {
+   
+    display: none;
+  }
+  
+  .accordion-content.active {
+    display: block;
+  }
